@@ -1,0 +1,58 @@
+PODS:
+  - AFNetworking (1.3.4)
+  - FontAwesomeKit (2.1.7):
+    - FontAwesomeKit/Core
+    - FontAwesomeKit/FontAwesome
+    - FontAwesomeKit/FoundationIcons
+    - FontAwesomeKit/IonIcons
+    - FontAwesomeKit/Zocial
+  - FontAwesomeKit/Core (2.1.7)
+  - FontAwesomeKit/FontAwesome (2.1.7):
+    - FontAwesomeKit/Core
+  - FontAwesomeKit/FoundationIcons (2.1.7):
+    - FontAwesomeKit/Core
+  - FontAwesomeKit/IonIcons (2.1.7):
+    - FontAwesomeKit/Core
+  - FontAwesomeKit/Zocial (2.1.7):
+    - FontAwesomeKit/Core
+  - GoogleAnalytics-iOS-SDK (3.0.7)
+  - MagicalRecord (2.2):
+    - MagicalRecord/Core
+  - MagicalRecord/Core (2.2)
+  - RestKit (0.20.3):
+    - RestKit/Core
+  - RestKit/Core (0.20.3):
+    - RestKit/CoreData
+    - RestKit/Network
+    - RestKit/ObjectMapping
+  - RestKit/CoreData (0.20.3)
+  - RestKit/Network (0.20.3):
+    - AFNetworking (~> 1.3.0)
+    - RestKit/ObjectMapping
+    - RestKit/Support
+    - SOCKit
+  - RestKit/ObjectMapping (0.20.3)
+  - RestKit/Support (0.20.3):
+    - TransitionKit (= 1.1.1)
+  - SOCKit (1.1)
+  - SWTableViewCell (0.3.0)
+  - TransitionKit (1.1.1)
+
+DEPENDENCIES:
+  - FontAwesomeKit (~> 2.1.0)
+  - GoogleAnalytics-iOS-SDK (~> 3.0.7)
+  - MagicalRecord (~> 2.2)
+  - RestKit (~> 0.20.3)
+  - SWTableViewCell
+
+SPEC CHECKSUMS:
+  AFNetworking: 80c4e0652b08eb34e25b9c0ff3c82556fe5967b4
+  FontAwesomeKit: af6eef70d23986349284d2feb4e959459621587d
+  GoogleAnalytics-iOS-SDK: bb285d8eef15a682f1b82971becd0d22edd0e53b
+  MagicalRecord: 2b471584fc9e3137f3d0a56967917baa4979e224
+  RestKit: 7f9490e709ee745e166c4d2aa7a8d132831275b0
+  SOCKit: d8d0dd3688ae1026c12367570da8fa8e1a6980fb
+  SWTableViewCell: 1725f7607ce4c154264c18aeb78e4636b11b0b29
+  TransitionKit: b573f93c422f6aedf7d40e93e7c2f202d1295063
+
+COCOAPODS: 0.33.1
